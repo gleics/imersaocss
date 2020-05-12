@@ -1,0 +1,43 @@
+/* Aula inicial :D */
+body {
+    background: yellow;
+    font-family: Arial;
+    backgrounf-size: auto 100vh;
+    height: 100vh;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: blue;
+  }
+  
+  .site-subtitle {
+    font-size: 16px;
+    
+    
+  }
+  
+  .menu {
+    background-color: white;
+    font-size: 14px;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .menu a {
+   text-decoration: none;
+    color: teal;
+    
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
